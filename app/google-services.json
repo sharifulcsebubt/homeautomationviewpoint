@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "939927149132",
+    "firebase_url": "https://temphumdht11-a4d08.firebaseio.com",
+    "project_id": "temphumdht11-a4d08",
+    "storage_bucket": "temphumdht11-a4d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939927149132:android:428b64e99cd3c61cbfb2e9",
+        "android_client_info": {
+          "package_name": "com.example.thiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK2x6vgx-5SM9CqXpFvBA8xEj5WKcESM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939927149132:android:e38dccfd753b033bbfb2e9",
+        "android_client_info": {
+          "package_name": "com.example.thiot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK2x6vgx-5SM9CqXpFvBA8xEj5WKcESM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939927149132:android:29bd424fd495535dbfb2e9",
+        "android_client_info": {
+          "package_name": "com.softscholer_THioT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK2x6vgx-5SM9CqXpFvBA8xEj5WKcESM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939927149132-ha4lnagh1dbadrmqgn0egu005krh234d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">THioT2</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="temperature">Temperature</string>
+    <string name="reply_label">100</string>
+    <string name="channel_name">Temp</string>
+    <string name="channel_description">Temp High</string>
+    <string name="temperature1">TEMPERATURE</string>
+</resources>
